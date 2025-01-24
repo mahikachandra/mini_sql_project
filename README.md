@@ -8,8 +8,8 @@ This project is designed to showcase SQL querying and performance analysis using
 
 ## Objectives
 
-- Learn how to use SQL for data analysis tasks such as aggregation, filtering, and ranking.
-- Understand how to calculate and manipulate data in a real-world dataset.
+- Use SQL for data analysis tasks such as aggregation, filtering, and ranking.
+- Calculate and manipulate data in a real-world dataset.
 - Gain hands-on experience with SQL functions like `COUNT`, `SUM`, `AVG`, `EXTRACT()`, and `DENSE_RANK()`.
 - Develop skills for performance analysis using SQL by solving different types of data problems related to user performance.
 
