@@ -1,4 +1,4 @@
-# SQL Mentor User Performance Analysis
+# SQL Mentor User Performance Analysis Project
 
 <img width="620" alt="image" src="https://github.com/user-attachments/assets/faa853f3-b8d3-4fb3-8c3a-a45dfe418b38" />
 
