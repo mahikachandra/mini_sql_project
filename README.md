@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project is designed to help beginners understand SQL querying and performance analysis using real-time data from SQL Mentor datasets. In this project, you will analyze user performance by creating and querying a table of user submissions. The goal is to solve a series of SQL problems to extract meaningful insights from user data.
+This project is designed to showcase SQL querying and performance analysis using real-time data from SQL Mentor datasets. In this project, we will analyze user performance by creating and querying a table of user submissions. The goal is to solve a series of SQL problems to extract meaningful insights from user data.
 
 ## Objectives
 
@@ -22,11 +22,11 @@ The dataset consists of information about user submissions for an online learnin
 - **Submission Timestamp**
 - **Username**
 
-This data allows you to analyze user performance in terms of correct and incorrect submissions, total points earned, and daily/weekly activity.
+This data allows us to analyze user performance in terms of correct and incorrect submissions, total points earned, and daily/weekly activity.
 
 ## SQL Problems and Questions
 
-Here are the SQL problems that you will solve as part of this project:
+Here are the SQL problems that we will solve as part of this project:
 
 ### Q1. List All Distinct Users and Their Stats
 - **Description**: Return the user name, total submissions, and total points earned by each user.
